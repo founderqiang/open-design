@@ -1577,6 +1577,7 @@ export const uk: Dict = {
   'designs.status.queued': 'У черзі',
   'designs.status.running': 'Виконується',
   'designs.status.awaitingInput': 'Чекає підтвердження',
+  'designs.status.incomplete': 'Не завершено',
   'designs.status.succeeded': 'Завершено',
   'designs.status.published': 'Опубліковано',
   'designs.status.failed': 'Помилка',

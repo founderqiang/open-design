@@ -1577,6 +1577,7 @@ export const fr: Dict = {
   'designs.status.queued': 'En file d\'attente',
   'designs.status.running': 'En cours',
   'designs.status.awaitingInput': 'Entrée requise',
+  'designs.status.incomplete': 'Incomplet',
   'designs.status.succeeded': 'Terminé',
   'designs.status.published': 'Publié',
   'designs.status.failed': 'Échoué',
